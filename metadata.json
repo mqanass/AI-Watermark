@@ -1,0 +1,7 @@
+{
+  "name": "AI Prompt Workspace & Watermark Remover",
+  "description": "A sophisticated digital workspace that visualizes the construction of an AI tool prompt, leading into a fully functional watermark removal application interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
